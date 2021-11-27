@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": "823128db-ad55-44be-9e71-9008843dc5c7",
+      "name": "Gorgeous Concrete Salad",
+      "createdAt": 1637994998361,
+      "updatedAt": 1637994998361
+    },
+    {
+      "id": "927da6dc-13db-44e3-ba0b-7923c0f784cc",
+      "name": "Practical Soft Car",
+      "createdAt": 1637994998361,
+      "updatedAt": 1637994998361
+    },
+    {
+      "id": "587229bd-de58-4852-b286-62f0c85da628",
+      "name": "Generic Plastic Soap",
+      "createdAt": 1637994998361,
+      "updatedAt": 1637994998361
+    },
+    {
+      "id": "463e31ca-727b-467e-a544-c6d4e83e5dfc",
+      "name": "Small Wooden Shoes",
+      "createdAt": 1637994998361,
+      "updatedAt": 1637994998361
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "823128db-ad55-44be-9e71-9008843dc5c7",
+      "id": "8aa83463-60c6-4314-8d60-c1577ce40cd5",
+      "name": "Tasty Cotton Gloves",
+      "color": "mint green",
+      "price": "62.00",
+      "priceType": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "823128db-ad55-44be-9e71-9008843dc5c7",
+      "id": "9c0762b2-346f-4132-996e-59084d0d259d",
+      "name": "Incredible Plastic Shoes",
+      "color": "lime",
+      "price": "822.00",
+      "priceType": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "823128db-ad55-44be-9e71-9008843dc5c7",
+      "id": "244d5799-4652-488e-9b29-c39d289d35a1",
+      "name": "Gorgeous Fresh Mouse",
+      "color": "indigo",
+      "price": "612.00",
+      "priceType": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "823128db-ad55-44be-9e71-9008843dc5c7",
+      "id": "0b3f5cac-dba7-400a-ace5-22f284d40564",
+      "name": "Generic Wooden Soap",
+      "color": "magenta",
+      "price": "900.00",
+      "priceType": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "823128db-ad55-44be-9e71-9008843dc5c7",
+      "id": "109b8e5a-fe66-46bd-ba01-916702ddb780",
+      "name": "Tasty Granite Computer",
+      "color": "lavender",
+      "price": "399.00",
+      "priceType": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "927da6dc-13db-44e3-ba0b-7923c0f784cc",
+      "id": "ceb8f3e1-6ca7-4fe8-8f4c-c441d126b5e7",
+      "name": "Incredible Steel Sausages",
+      "color": "blue",
+      "price": "416.00",
+      "priceType": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "927da6dc-13db-44e3-ba0b-7923c0f784cc",
+      "id": "44d29c7e-b254-40c1-b590-97d90b150227",
+      "name": "Refined Granite Pizza",
+      "color": "lavender",
+      "price": "498.00",
+      "priceType": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "927da6dc-13db-44e3-ba0b-7923c0f784cc",
+      "id": "6ce212e7-96f0-4256-89b5-6791f6ac0efc",
+      "name": "Refined Rubber Cheese",
+      "color": "black",
+      "price": "432.00",
+      "priceType": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "927da6dc-13db-44e3-ba0b-7923c0f784cc",
+      "id": "57404900-7b64-4458-8c07-4a96f5fb9b01",
+      "name": "Tasty Concrete Salad",
+      "color": "tan",
+      "price": "55.00",
+      "priceType": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "927da6dc-13db-44e3-ba0b-7923c0f784cc",
+      "id": "0b119f0e-cbce-4767-8cc6-ee3c8c02ffb0",
+      "name": "Practical Soft Soap",
+      "color": "pink",
+      "price": "348.00",
+      "priceType": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "587229bd-de58-4852-b286-62f0c85da628",
+      "id": "09c89841-fb42-4ddf-ae58-980e2bf40ace",
+      "name": "Fantastic Metal Cheese",
+      "color": "lime",
+      "price": "564.00",
+      "priceType": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "587229bd-de58-4852-b286-62f0c85da628",
+      "id": "4e968e76-1d8c-4427-8600-e59ff97211e7",
+      "name": "Small Frozen Chair",
+      "color": "turquoise",
+      "price": "719.00",
+      "priceType": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "587229bd-de58-4852-b286-62f0c85da628",
+      "id": "cc8b606e-eb28-4eff-8f78-97d9d1843315",
+      "name": "Practical Frozen Hat",
+      "color": "red",
+      "price": "800.00",
+      "priceType": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "587229bd-de58-4852-b286-62f0c85da628",
+      "id": "eb8f8a7f-c990-40d3-8e86-613c40894f5e",
+      "name": "Generic Concrete Table",
+      "color": "plum",
+      "price": "905.00",
+      "priceType": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "587229bd-de58-4852-b286-62f0c85da628",
+      "id": "a1b6173f-82f8-4dc2-970c-28fee88e3bc4",
+      "name": "Fantastic Metal Salad",
+      "color": "fuchsia",
+      "price": "991.00",
+      "priceType": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "463e31ca-727b-467e-a544-c6d4e83e5dfc",
+      "id": "64a88acd-1bf1-4156-a8d0-03de160bc956",
+      "name": "Practical Wooden Sausages",
+      "color": "indigo",
+      "price": "181.00",
+      "priceType": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "463e31ca-727b-467e-a544-c6d4e83e5dfc",
+      "id": "d71f7762-141b-44b7-8b2b-8f7bb6fb441c",
+      "name": "Handcrafted Metal Fish",
+      "color": "black",
+      "price": "727.00",
+      "priceType": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1637994998362,
+      "updatedAt": 1637994998362,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "463e31ca-727b-467e-a544-c6d4e83e5dfc",
+      "id": "c6d18bd9-34e2-4822-84f2-b38151a64e9a",
+      "name": "Gorgeous Rubber Ball",
+      "color": "yellow",
+      "price": "728.00",
+      "priceType": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1637994998363,
+      "updatedAt": 1637994998363,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "463e31ca-727b-467e-a544-c6d4e83e5dfc",
+      "id": "b5631e53-5f40-4be0-8af5-885557ba3d91",
+      "name": "Gorgeous Plastic Gloves",
+      "color": "plum",
+      "price": "856.00",
+      "priceType": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1637994998363,
+      "updatedAt": 1637994998363,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "463e31ca-727b-467e-a544-c6d4e83e5dfc",
+      "id": "b0509747-8658-4de3-a742-70c228e30ed1",
+      "name": "Gorgeous Concrete Sausages",
+      "color": "lime",
+      "price": "791.00",
+      "priceType": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1637994998363,
+      "updatedAt": 1637994998363,
+      "thumbnailUrl": "http://placeimg.com/300/300"
+    },
+    {
+      "categoryId": "823128db-ad55-44be-9e71-9008843dc5c7",
+      "name": "Tasty Cotton Gloves",
+      "color": "red",
+      "price": "653.00",
+      "priceType": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "thumbnailUrl": "http://placeimg.com/300/300",
+      "createdAt": 1637996349832,
+      "updatedAt": 1637996461219,
+      "id": "udeccg4"
+    }
+  ],
+  "profile": {
+    "name": "ManhTuan"
+  }
+}

@@ -1,0 +1,83 @@
+@baseUrl =  http://localhost:3000/api
+@resourceName = products
+# 
+# Products
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+### 
+
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name": "Laptop"
+}
+
+###
+
+# @name deleteItem
+DELETE {{baseUrl}}/{{resourceName}}/4
+Content-Type: application/json
+
+
+###
+
+# @name Update
+PATCH {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+    "name": "Old Laptop"
+}
+
+###
+
+# @name filter_color
+GET {{baseUrl}}/{{resourceName}}?color_like=pi
+
+
+###
+
+# @name filter_price
+GET {{baseUrl}}/{{resourceName}}?price_gte=800
+
+###
+
+# @name paginations
+GET {{baseUrl}}/{{resourceName}}?_page=2&_limit=3
+
+###
+
+# @name sort
+GET {{baseUrl}}/{{resourceName}}?_sort=price&order=asc
+
+###
+
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "categoryId": "823128db-ad55-44be-9e71-9008843dc5c7",
+    "name": "Tasty Cotton Gloves",
+    "color": "mint green",
+    "price": "62.00",
+    "priceType": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "thumbnailUrl": "http://placeimg.com/300/300"
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/udeccg4
+Content-Type: application/json
+
+{
+    "name": "Tasty Cotton Gloves",
+    "color": "red",
+    "price": "653.00"
+}
+
